@@ -1,4 +1,8 @@
 abc
 def
 grh
+<<<<<<< HEAD
 hhh
+=======
+sss
+>>>>>>> dev
